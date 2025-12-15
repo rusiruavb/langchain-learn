@@ -1,0 +1,13 @@
+jupyter 
+notebook
+jupyterlab
+openai
+langchain
+langchain-openai
+python-dotenv
+langgraph
+jupyter_contrib_nbextensions
+black[jupyter]
+langchain-text-splitters
+langchain-community
+psycopg2
