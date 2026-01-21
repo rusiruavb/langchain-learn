@@ -11,3 +11,4 @@ black[jupyter]
 langchain-text-splitters
 langchain-community
 psycopg2
+pgvector

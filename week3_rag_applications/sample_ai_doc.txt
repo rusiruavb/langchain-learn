@@ -1,0 +1,14 @@
+
+Introduction to Artificial Intelligence
+
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+AI systems can perform tasks that typically require human intelligence, such as
+visual perception, speech recognition, decision-making, and language translation.
+
+Types of AI:
+1. Narrow AI: Designed for specific tasks (e.g., image recognition)
+2. General AI: Theoretical AI with human-like intelligence
+3. Super AI: Hypothetical AI that surpasses human intelligence
+
+Machine Learning is a subset of AI that enables systems to learn from data.
+Deep Learning is a subset of Machine Learning using neural networks.
